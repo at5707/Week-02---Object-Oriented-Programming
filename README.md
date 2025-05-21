@@ -1,4 +1,5 @@
-Week 2: Object-Oriented Programming Welcome to the repository for Week 2 of our Java learning journey. This week focused on building up our Java concepts by teaching object-oriented programming.
+Week 2: Object-Oriented Programming 
+Welcome to the repository for Week 2 of our Java learning journey. This week focused on building up our Java concepts by teaching object-oriented programming.
 
 Table of Contents 
 ● Overview 
